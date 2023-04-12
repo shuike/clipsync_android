@@ -4,7 +4,9 @@
 
 [使用帮助](help.md)
 
+## ClipSync Mac版
 
+[ClipSync MacOS](https://github.com/shuike/clipsync_macos)
 
 ## 权限说明
 
