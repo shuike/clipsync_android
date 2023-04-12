@@ -28,7 +28,7 @@ adb shell pm grant com.skit.clipsync android.permission.READ_LOGS
 
 在看到如下图中的页面与开关时，点击开关即可使用本应用。
 
-> 使用时强烈建议自定义`端口号`与开启`加密`，否则在该局域网内可接受该广播的所有设备都可获取您所广播的数据。
+<span style="color:red">使用时强烈建议自定义`端口号`与开启`加密`，否则在该局域网内可接受该广播的所有设备都可获取您所广播的数据。</span>
 
 <img src="screenshot/img3.png" style="zoom:50%;" />
 
