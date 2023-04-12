@@ -6,7 +6,7 @@
 
 ## ClipSync Mac版
 
-[ClipSync MacOS](https://github.com/shuike/clipsync_macos)
+ClipSync MacOS版本可通过该仓库获取 [ClipSync MacOS](https://github.com/shuike/clipsync_macos)
 
 ## 权限说明
 
