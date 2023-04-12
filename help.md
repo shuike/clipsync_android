@@ -32,6 +32,10 @@ adb shell pm grant com.skit.clipsync android.permission.READ_LOGS
 
 <img src="screenshot/img3.png" style="zoom:50%;" />
 
+如在使用过程过遇到如下图弹窗，请点击允许。
+
+<img src="screenshot/img8.png" style="zoom:50%;" />
+
 ### 发送消息给指定设备
 
 在首页点击右上角按钮，进入设备列表，从设备列表点击你需要发送消息的设备，在弹出的对话框输入内容，点击发送即可。如下图所示，发送的消息则会同步到对方设备的剪切板中。
