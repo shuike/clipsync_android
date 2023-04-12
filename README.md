@@ -1,6 +1,6 @@
 # ClipSync Android版
 
-
+使用ClipSync可将剪切板同步给局域网中其它安装了ClipSync的设备，这些设备可以是Android手机也可以是Mac电脑。
 
 [使用帮助](help.md)
 
