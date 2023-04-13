@@ -15,6 +15,12 @@
 
 [使用帮助](help.md)
 
+<p align="center">
+	<img src="screenshot/home.png" alt="screenshot" style="width: 25%;" />
+  <img src="screenshot/devicelist.png" alt="screenshot" style="width: 25%;" />
+</p>
+
+
 ## 权限说明
 
 - ### android.permission.ACCESS_NETWORK_STATE
@@ -34,5 +40,4 @@
 ### ClipSync Mac版获取
 
 ClipSync MacOS版本可通过该仓库获取 [ClipSync MacOS](https://github.com/shuike/clipsync_macos)
-
 
