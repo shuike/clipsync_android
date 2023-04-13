@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img alt="Logo" src="images/icon.png" style="zoom:25%;" />
+  <img alt="Logo" src="images/icon.png" style="width:15%;" />
 	<br/>
 	<br/>
 	<a href="https://github.com/shuike/clipsync_android/releases">
