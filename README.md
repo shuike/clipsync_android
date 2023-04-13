@@ -15,10 +15,6 @@
 
 [使用帮助](help.md)
 
-## ClipSync Mac版
-
-ClipSync MacOS版本可通过该仓库获取 [ClipSync MacOS](https://github.com/shuike/clipsync_macos)
-
 ## 权限说明
 
 - ### android.permission.ACCESS_NETWORK_STATE
@@ -33,4 +29,10 @@ ClipSync MacOS版本可通过该仓库获取 [ClipSync MacOS](https://github.com
 	因为Google官方从Android10开始[限制了对剪贴板数据的访问权限](https://developer.android.com/about/versions/10/privacy/changes?hl=zh-cn#clipboard-data)
 ，因此在Android10及以上平台在后台时需要通过`android.permission.READ_LOGS`与`android.permission.SYSTEM_ALERT_WINDOW`
 权限去解决这个限制。
+
+
+### ClipSync Mac版获取
+
+ClipSync MacOS版本可通过该仓库获取 [ClipSync MacOS](https://github.com/shuike/clipsync_macos)
+
 
