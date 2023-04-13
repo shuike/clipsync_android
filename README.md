@@ -1,19 +1,20 @@
 <h1 align="center">ClipSync Android版</h1>
 
 ---
+
 <p align="center">
-  <img alt="Logo" src="images/icon.png" style="width:15%;" />
+ 	<img alt="Logo" src="images/icon.png" style="width:15%;" />
 	<br/>
 	<br/>
 	<a href="https://github.com/shuike/clipsync_android/releases">
 		<img alt="Current Release" src="https://img.shields.io/github/release/shuike/clipsync_android.svg"/>
 	</a>
 </p>
-
+<p align="center">
+	<a href="help.md">使用帮助</a>
+</p>
 
 使用ClipSync可将剪切板同步给局域网中其它安装了ClipSync的设备，这些设备可以是Android手机也可以是Mac电脑。
-
-[使用帮助](help.md)
 
 <p align="center">
 	<img src="screenshot/home.png" alt="screenshot" style="width: 25%;" />
