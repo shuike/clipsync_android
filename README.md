@@ -11,7 +11,7 @@
 	</a>
 </p>
 <p align="center">
-	<a href="help.md">使用帮助</a>
+	<a href="https://github.com/shuike/clipsync_android/wiki/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9">使用帮助</a>
 	<a href="https://github.com/shuike/clipsync_android/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">常见问题</a>
 </p>
 
